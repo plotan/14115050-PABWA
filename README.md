@@ -1,2 +1,2 @@
-# 14115050_PABW_A
+# 14115050-PABWA
 Praktikum - Pengenalan Aplikasi Berbasis Web (A)
