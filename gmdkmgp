@@ -1,0 +1,32 @@
+[33mcommit c4f88194b1a42e5cc004041b862b1a7c38f6a419[m[33m ([m[1;36mHEAD -> [m[1;32mminggu3[m[33m, [m[1;31morigin/minggu3[m[33m)[m
+Author: plotan <dnndr07@gmail.com>
+Date:   Sun Sep 15 08:35:36 2019 +0700
+
+    testcommit
+
+[33mcommit 3e135b3b63a18905590ffb0793bbca65f1615ccf[m
+Merge: 5a86107 684f19c
+Author: Munand <dnndr07@gmail.com>
+Date:   Thu Sep 5 09:33:04 2019 +0700
+
+    Merge pull request #1 from plotan/minggu-1
+    
+    Hello world +Add
+
+[33mcommit 684f19cf2d7b5508c1ff8c672d264242a8acaa0a[m[33m ([m[1;31morigin/minggu-1[m[33m, [m[1;32mminggu-1[m[33m)[m
+Author: plotan <dnndr07@gmail.com>
+Date:   Thu Sep 5 09:20:49 2019 +0700
+
+    Hello world +Add
+
+[33mcommit 5a86107c8543b5d0b6b12b8ab321545b35ec43c2[m
+Author: Munand <dnndr07@gmail.com>
+Date:   Thu Sep 5 08:36:48 2019 +0700
+
+    Update README.md
+
+[33mcommit 2795dcfc73c05d4e4551b30e49ca17939dc78619[m
+Author: Munand <dnndr07@gmail.com>
+Date:   Thu Sep 5 08:35:20 2019 +0700
+
+    Initial commit
